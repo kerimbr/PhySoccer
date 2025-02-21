@@ -1,0 +1,4 @@
+repository "Physoccer/Physoccer@18968247386172@cloud"
+  path "/"
+    br "/main"
+    co "/main"
